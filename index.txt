@@ -2,6 +2,8 @@ Hello world!
 
 I'm learning git
 
-
-
 there was a bug
+
+changes in the new branch
+
+some more changes in the new branch
