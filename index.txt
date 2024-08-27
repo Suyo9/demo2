@@ -3,3 +3,6 @@ Hello world!
 I'm learning git
 
 changes in the new branch
+
+some more changes in the new branch
+
